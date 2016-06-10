@@ -11,6 +11,9 @@ Mail.app其实已经能满足大多数需求。使用AirMail3主要是出于两�
 ## 远程桌面
 Jump Desktop，可以同时管理RDP和VNC的连接，如果经常需要连接并登陆Windows Server，那jump是微软自带客户端的不错的替代品。后者稳定性堪忧。
 
+## 脑图
+MindNode(Pro), 轻量、简洁、漂亮，如果只是单纯做脑图，这个软件的基因比较好。
+
 # iOS软件
 https://itunes.apple.com/cn/app/replica-web-developer-tool/id1068196306?l=en&mt=8
 
