@@ -15,8 +15,10 @@ Jump Desktop，可以同时管理RDP和VNC的连接，如果经常需要连接�
 MindNode(Pro), 轻量、简洁、漂亮，如果只是单纯做脑图，这个软件的基因比较好。
 
 ## 数据库工具
-### Navicat －－ 不用说了
-### DataGrip，jetbrains新作，能力抢眼，感觉要做Navicat的替代品。目前（2016年7月）是2016.1.1版。官网：https://www.jetbrains.com/datagrip/。
+### Navicat
+不用说了
+### DataGrip
+jetbrains新作，能力抢眼，感觉要做Navicat的替代品。目前（2016年7月）是2016.1.1版。官网：https://www.jetbrains.com/datagrip/。
 
 # iOS软件
 https://itunes.apple.com/cn/app/replica-web-developer-tool/id1068196306?l=en&mt=8
