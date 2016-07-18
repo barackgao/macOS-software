@@ -20,6 +20,10 @@ MindNode(Pro), 轻量、简洁、漂亮，如果只是单纯做脑图，这个�
 ### DataGrip
 jetbrains新作，能力抢眼，感觉要做Navicat的替代品。目前（2016年7月）是2016.1.1版。官网：https://www.jetbrains.com/datagrip/。
 
+## API管理与测试工具
+### Postman
+独立app或chrome插件都做的不错，可以导出将api collection作为json导入导出，支持put、post等多种方式，可以单独或批量编辑参数数据，也可以通过云账户同步api集合。另外，通过newman，可以批量执行api请求，可用于自动化测试。
+
 # iOS软件
 https://itunes.apple.com/cn/app/replica-web-developer-tool/id1068196306?l=en&mt=8
 
