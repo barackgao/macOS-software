@@ -20,6 +20,7 @@ MindNode(Pro), 轻量、简洁、漂亮，如果只是单纯做脑图，这个�
 ## Markdown编辑器
 * Ulysses，逼格甚高的编辑器，功能丰富，编辑过程会自动转化标记，283人民币，真心不便宜。http://www.ulyssesapp.com/
 * Byword，非常简洁的应用。优势是自带发布功能，支持Wordpress和Tumblr等，但是即便是花了78元人民币买了Byword，还是得继续内购才能使用发布功能。
+* Atom，好吧，底线选择，自带markdown-preview插件。
 
 ## 数据库工具
 ### Navicat
