@@ -22,6 +22,12 @@ MindNode(Pro), 轻量、简洁、漂亮，如果只是单纯做脑图，这个�
 * Byword，非常简洁的应用。优势是自带发布功能，支持Wordpress和Tumblr等，但是即便是花了78元人民币买了Byword，还是得继续内购才能使用发布功能。
 * Atom，好吧，底线选择，自带markdown-preview插件。
 
+## Android手机连接工具
+HandShaker，前身叫SmartFinder（醉了），锤子科技出品，用着挺爽。
+
+## App网络调试工具
+Charles，使用当然不局限于app，但是wifi局域网内设置代理后可以在mac上监控手机所有app的请求数据，方便。
+
 ## 数据库工具
 ### Navicat
 不用说了
